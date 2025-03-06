@@ -1,5 +1,8 @@
 # SmartBear API Difference Analyzer
 
+## Field Notes
+1. A
+
 ## Project Overview
 SmartBear provides a portfolio of trusted capabilities that give software development teams around the world visibility into end-to-end quality through test management and automation, API development lifecycle, and application stability, ensuring each software release is better than the last.
 
@@ -13,12 +16,6 @@ The goal of this project is to develop a web application that allows users to co
 - Supervision over the project by an employee of the company.
 - Participation of a company employee in project meetings.
 - Company will provision/finance the necessary hardware/software.
-
-## Project Details
-- **Accepted Group Size:** 3 people, 4 people
-- **Acceptable Project Language:** English, Polish
-- **Available Groups:** 1/1
-- **Additional Remarks:** The result of this project will be publicly available open-source code under a permissive Open Source license.
 
 ## Involved People
 - **Project Members:**  

@@ -26,3 +26,10 @@ The goal of this project is to develop a web application that allows users to co
   - Kacper Piasecki
 - **Under Protectorate:**
   - Tomasz Kubik
+  - Mateusz Wronski
+
+```bash
+git clone git@github.com:APIprotector/management.git
+git remote add gitlab git@git.e-science.pl:<USERNAME>/PZ_APIProtector.wiki.git
+git push --mirror
+```

@@ -34,6 +34,7 @@
 - [x] Zrealizowane zadanie 1
 - [x] Zrealizowane zadanie 2
 - [x] Zrealizowane zadanie 3
+- [ ] ![pg.png](uploads/578f09680b8652ae5f58501d9ba3825f/pg.png){width=629 height=510}
 
 ---
 

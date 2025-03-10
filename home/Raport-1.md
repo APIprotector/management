@@ -36,7 +36,7 @@
 - [x] Wybór licencji projektu
 - [x] Wybranie technologii
 
-  ![pg.png](uploads/578f09680b8652ae5f58501d9ba3825f/pg.png){width="629" height="510"}
+  ![pg.png](uploads/f6a2de475dff74344404282b663a26ff/pg.png)
 
 ---
 

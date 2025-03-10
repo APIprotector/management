@@ -25,16 +25,16 @@
 
 ## :clipboard: Planowane działania:
 
-- [ ] konteneryzacja
-- [ ] hosting
-- [ ] potwierdzenie wybranych technologii
+- [ ] Potwierdzenie wybranych technologii
+- [ ] Konteneryzacja
+- [ ] Hosting
 
 ## :white_check_mark: Wykonane działania:
 
 - [x] Utworzenie repozytorium
 - [x] Utworzenie wspólnego kanału komunikacji z mentorem na Slacku
 - [x] Wybór licencji projektu
-- [x] wybranie technologii
+- [x] Wybranie technologii
 
   ![pg.png](uploads/578f09680b8652ae5f58501d9ba3825f/pg.png){width="629" height="510"}
 

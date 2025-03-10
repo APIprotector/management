@@ -4,7 +4,7 @@
 
 ## :date: Data:
 
-**DD.MM.YYYY**
+**13.03.2025**
 
 ## :pushpin: Projekt:
 
@@ -12,7 +12,7 @@
 
 ## :hourglass_flowing_sand: Okres sprawozdawczy:
 
-**DD.MM.YYYY - DD.MM.YYYY**
+**06.03.2025 - 13.03.2025**
 
 ## :busts_in_silhouette: Członkowie zespołu:
 
@@ -25,16 +25,18 @@
 
 ## :clipboard: Planowane działania:
 
-- [ ] Zadanie 1
-- [ ] Zadanie 2
-- [ ] Zadanie 3
+- [ ] konteneryzacja
+- [ ] hosting
+- [ ] potwierdzenie wybranych technologii
 
 ## :white_check_mark: Wykonane działania:
 
-- [x] Zrealizowane zadanie 1
-- [x] Zrealizowane zadanie 2
-- [x] Zrealizowane zadanie 3
-- [ ] ![pg.png](uploads/578f09680b8652ae5f58501d9ba3825f/pg.png){width=629 height=510}
+- [x] Utworzenie repozytorium
+- [x] Utworzenie wspólnego kanału komunikacji z mentorem na Slacku
+- [x] Wybór licencji projektu
+- [x] wybranie technologii
+
+  ![pg.png](uploads/578f09680b8652ae5f58501d9ba3825f/pg.png){width="629" height="510"}
 
 ---
 
